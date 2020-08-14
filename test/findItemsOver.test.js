@@ -1,5 +1,5 @@
 let assert = require('assert');
-let findItemsOver = require('./findItemsOver');
+let findItemsOver = require('../findItemsOver');
 
 describe('The findItemOver function', function () {
 

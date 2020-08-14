@@ -1,5 +1,5 @@
 let assert = require('assert');
-let countAllFromTown = require('./countAllFromTown');
+let countAllFromTown = require('../countAllFromTown');
 
 describe('The countAllFromTown function', function(){
 

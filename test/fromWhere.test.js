@@ -1,5 +1,5 @@
 let assert = require('assert');
-let fromWhere = require('./fromWhere');
+let fromWhere = require('../fromWhere');
 
 describe('The fromWhere function', function () {
 

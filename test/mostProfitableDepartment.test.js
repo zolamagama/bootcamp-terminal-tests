@@ -1,5 +1,5 @@
 let assert = require('assert');
-let mostProfitableDepartment = require('./mostProfitableDepartment');
+let mostProfitableDepartment = require('../mostProfitableDepartment');
 
 
 

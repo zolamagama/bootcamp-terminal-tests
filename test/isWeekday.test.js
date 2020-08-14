@@ -1,5 +1,5 @@
 let assert = require('assert');
-let isWeekday = require('./isWeekday');
+let isWeekday = require('../isWeekday');
 
 describe('The isWeekday function', function () {
 

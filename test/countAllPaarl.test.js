@@ -1,5 +1,5 @@
 let assert = require('assert');
-let countAllPaarl = require('./countAllPaarl');
+let countAllPaarl = require('../countAllPaarl');
 
 describe('The countAllPaarl function', function(){
 

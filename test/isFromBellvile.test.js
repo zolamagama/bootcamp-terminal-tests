@@ -1,5 +1,5 @@
 let assert = require("assert");
-let isFromBellville = require("./isFromBellvile")
+let isFromBellville = require("../isFromBellvile")
 
 describe('The isFromBellville function', function () {
 
